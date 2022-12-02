@@ -55,6 +55,7 @@ p {
 .yoga-link,
 .weather-link,
 .Yogurt-link {
+  text-align: center;
   background: var(--primary-color);
   color: white;
 }
